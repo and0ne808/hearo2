@@ -1,0 +1,15 @@
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_bin\Debug\ConditionalExpression.dll
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_bin\Debug\PlayMaker.dll
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_obj\Debug\Hero2.csprojResolveAssemblyReference.cache
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\and0ne808\Documents\GitHub\hearo2\Hero2\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
